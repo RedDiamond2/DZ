@@ -15,8 +15,8 @@ const otpStore = new Map();
 const transporter = nodemailer.createTransport({
   service: "gmail",
   auth: {
-    user: "your@email.com",       // ضع هنا بريدك
-    pass: "your_app_password"     // ضع هنا App Password من Gmail
+    user: "ip8a2024@gmail.com",       // ضع هنا بريدك
+    pass: "lfyr mkds gioy ltlu"     // ضع هنا App Password من Gmail
   }
 });
 
